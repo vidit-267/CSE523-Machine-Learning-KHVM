@@ -12,11 +12,25 @@ Our dataset consists of 2 million records containing user ids, song ids and the 
 
 **1. Fuzzy String Matching**
 
+![fuzzy](https://user-images.githubusercontent.com/65005420/114298627-fe973a00-9ad4-11eb-90db-570ba0fa8ccc.JPG)
+
+
 **2. Recommendations using the K-nearest Neighbours algorithm**
+
+![MUSIC_output_2](https://user-images.githubusercontent.com/65005420/114298631-0656de80-9ad5-11eb-8d10-0a2b31da89dd.jpeg)
+
 
 **3. Recommendation using the Singular Value Decomposition algorithm**
 
+![svd_1](https://user-images.githubusercontent.com/65005420/114298638-0d7dec80-9ad5-11eb-97b9-770c65e5dd3b.JPG)
+
+
 **4. Root Mean Square Error using Surprise library**
+
+![RMSE__1](https://user-images.githubusercontent.com/65005420/114298642-15d62780-9ad5-11eb-928e-f324eadaeb5d.JPG)
+
+
+![RMSE__2](https://user-images.githubusercontent.com/65005420/114298645-18d11800-9ad5-11eb-98f4-b98a1c9f5c71.JPG)
 
 
 
