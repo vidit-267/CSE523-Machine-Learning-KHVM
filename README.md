@@ -10,10 +10,10 @@ Our dataset consists of 2 million records containing user ids, song ids and the 
 
 **Results**
 
-**1. Fuzzy String Matching **
+**1. Fuzzy String Matching**
 
-**2. Recommendations using the K-nearest Neighbours algorithm **
+**2. Recommendations using the K-nearest Neighbours algorithm**
 
 **3. Recommendation using the Singular Value Decomposition algorithm**
 
-**4. Root Mean Square Error using Surprise library **
+**4. Root Mean Square Error using Surprise library**
